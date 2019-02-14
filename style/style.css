@@ -1,3 +1,11 @@
+/* page header color: #2f2fa2*/
+/* page footer color: #2f2fa2*/
+/* table header color: #2f2fa2*/
+/* table cell color: #2f2fa2*/
+/* menu color: #2f2fa2*/
+/* active menu color: #2f2fa2*/
+/* menu text hoover color: #2f2fa2*/
+
 html
 { height: 100%;}
 
@@ -159,7 +167,7 @@ ul#menu li a
   text-align: center;
   color: #FFF;
   text-decoration: none;
-  background: #5680e9 no-repeat 100% 0;}
+  background: #6580e9 no-repeat 100% 0;}
 
 ul#menu li.selected a
 { height: 20px;
@@ -170,7 +178,7 @@ ul#menu li.selected
   background: #2f2fa2 no-repeat 0 0;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #6580e9 no-repeat 100% 0;
+{ background: #5cdb95 no-repeat 100% 0;
   color: #FFF;}
 
 ul#menu li a:hover
