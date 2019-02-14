@@ -244,8 +244,8 @@ ul#menu li a:hover
   height: 80px;
   padding: 28px 0 5px 0;
   text-align: center;
+  background: #5680e9 repeat-x;
   color: #c4dbf6;}
-  background: #6580e9 repeat-x;
 
 #footer p
 { line-height: 1.7em;
@@ -322,7 +322,7 @@ table
   font-size: 100%;}
 
 table tr th, table tr td
-{ background: #6580e9;
+{ background: #5680e9;
   color: #FCFFF5;
   padding: 7px 4px;
   text-align: left;}
