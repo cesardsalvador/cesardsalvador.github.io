@@ -178,7 +178,7 @@ ul#menu li.selected
   background: #2f2fa2 no-repeat 0 0;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #5cdb95 no-repeat 100% 0;
+{ background: #3500d3 no-repeat 100% 0;
   color: #FFF;}
 
 ul#menu li a:hover
@@ -322,7 +322,7 @@ table
   font-size: 100%;}
 
 table tr th, table tr td
-{ background: #3b8beb;
+{ background: #5680e9;
   color: #FCFFF5;
   padding: 7px 4px;
   text-align: left;}
