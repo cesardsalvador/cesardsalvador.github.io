@@ -170,11 +170,11 @@ ul#menu li.selected
   background: #2f2fa2 no-repeat 0 0;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #91AAB4 no-repeat 100% 0;
+{ background: #6580e9 no-repeat 100% 0;
   color: #FFF;}
 
 ul#menu li a:hover
-{ color: #66ff7c;}
+{ color: #f64772;}
 
 #site_content
 { width: 880px;
@@ -208,7 +208,7 @@ ul#menu li a:hover
   width: 192px;}
 
 .sidebar li a.selected
-{ color: #66ff7c;}
+{ color: #f64772;}
 
 .sidebar ul
 { margin: 0;}
@@ -248,7 +248,7 @@ ul#menu li a:hover
   text-decoration: none;}
 
 #footer a:hover
-{ color: #66ff7c;
+{ color: #f64772;
   text-decoration: none;}
 
 .search
