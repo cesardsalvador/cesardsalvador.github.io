@@ -133,7 +133,7 @@ ol li
 #logo_text h2
 { font-size: 120%;
   padding: 4px 0 0 0;
-  color: #CBDBD7;}
+  color: #c4dbf6;}
 
 #menubar
 { width: 880px;
@@ -237,14 +237,14 @@ ul#menu li a:hover
   padding: 28px 0 5px 0;
   text-align: center;
   background: #3E606F repeat-x;
-  color: #CBDBD7;}
+  color: #c4dbf6;}
 
 #footer p
 { line-height: 1.7em;
   padding: 0 0 10px 0;}
 
 #footer a
-{ color: #CBDBD7;
+{ color: #c4dbf6;
   text-decoration: none;}
 
 #footer a:hover
@@ -320,6 +320,6 @@ table tr th, table tr td
   text-align: left;}
 
 table tr td
-{ background: #CBDBD7;
+{ background: #c4dbf6;
   color: #3b8beb;
   border-top: 1px solid #FCFFF5;}
