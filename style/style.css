@@ -159,7 +159,7 @@ ul#menu li a
   text-align: center;
   color: #FFF;
   text-decoration: none;
-  background: #3E606F no-repeat 100% 0;}
+  background: #8590aa no-repeat 100% 0;}
 
 ul#menu li.selected a
 { height: 20px;
@@ -236,7 +236,7 @@ ul#menu li a:hover
   height: 80px;
   padding: 28px 0 5px 0;
   text-align: center;
-  background: #3E606F repeat-x;
+  background: #8590aa repeat-x;
   color: #c4dbf6;}
 
 #footer p
@@ -314,7 +314,7 @@ table
   font-size: 100%;}
 
 table tr th, table tr td
-{ background: #3E606F;
+{ background: #8590aa;
   color: #FCFFF5;
   padding: 7px 4px;
   text-align: left;}
