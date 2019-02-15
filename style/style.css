@@ -1,10 +1,10 @@
-/* page header color: #2f2fa2*/
-/* page footer color: #2f2fa2*/
-/* table header color: #2f2fa2*/
-/* table cell color: #2f2fa2*/
+/* page header color: #2f2fa2 */
+/* page footer color: #2f2fa2 */
+/* table header color: #2f2fa2 */
+/* table cell color: #2f2fa2 */
 /* menu color: #2f2fa2*/
-/* active menu color: #2f2fa2*/
-/* menu text hoover color: #2f2fa2*/
+/* active menu color: #88d317 */
+/* menu text hoover color: #88d317 */
 
 html
 { height: 100%;}
@@ -178,11 +178,11 @@ ul#menu li.selected
   background: #2f2fa2 no-repeat 0 0;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ background: #ee4c7c no-repeat 100% 0;
+{ background: #88d317 no-repeat 100% 0;
   color: #FFF;}
 
 ul#menu li a:hover
-{ color: #ee4c7c;}
+{ color: #88d317;}
 
 #site_content
 { width: 880px;
@@ -216,7 +216,7 @@ ul#menu li a:hover
   width: 192px;}
 
 .sidebar li a.selected
-{ color: #ee4c7c;}
+{ color: #88d317;}
 
 .sidebar ul
 { margin: 0;}
@@ -256,7 +256,7 @@ ul#menu li a:hover
   text-decoration: none;}
 
 #footer a:hover
-{ color: #ee4c7c;
+{ color: #88d317;
   text-decoration: none;}
 
 .search
