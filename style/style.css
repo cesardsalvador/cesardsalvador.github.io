@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6
   padding: 0 0 5px 0;}
 
 h1, h2, h3
-{ font: normal 170% 'century gothic', arial;
+{ font: normal 170% Georgia, serif;
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;
   color: #2f2fa2;}
@@ -49,12 +49,12 @@ h3
 h4, h6
 { color: #2f2fa2;
   padding: 0 0 5px 0;
-  font: normal 110% arial;
+  font: normal 110% Georgia, serif;
   text-transform: uppercase;}
 
 h5, h6
 { color: #2f2fa2;
-  font: normal 95% arial;
+  font: normal 95% Georgia, serif;
   letter-spacing: normal;
   padding: 0 0 15px 0;}
 
@@ -122,7 +122,7 @@ ol li
   left: 0;}
 
 #logo h1, #logo h2
-{ font: normal 300% 'century gothic', arial, sans-serif;
+{ font: normal 300% Georgia, serif;
   border-bottom: 0;
   text-transform: none;
   margin: 0 0 0 9px;}
@@ -160,7 +160,7 @@ ul#menu li
   background: #2f2fa2 no-repeat 0 0;}
 
 ul#menu li a
-{ font: normal 100% 'trebuchet ms', sans-serif;
+{ font: normal 100% Georgia, serif;
   display: block;
   float: left;
   height: 20px;
@@ -240,7 +240,7 @@ ul#menu li a:hover
 
 #footer
 { width: 100%;
-  font-family: 'trebuchet ms', sans-serif;
+  font-family: Georgia, serif;
   font-size: 100%;
   height: 80px;
   padding: 28px 0 5px 0;
@@ -265,7 +265,7 @@ ul#menu li a:hover
   border: 1px solid #BBB;
   width: 134px;
   padding: 4px;
-  font: 100% arial, sans-serif;}
+  font: 100% Georgia, serif;}
 
 .form_settings
 { margin: 15px 0 0 0;}
@@ -281,13 +281,13 @@ ul#menu li a:hover
 .form_settings input, .form_settings textarea
 { padding: 5px;
   width: 299px;
-  font: 100% arial;
+  font: 100% Georgia, serif;
   border: 1px solid #E5E5DB;
   background: #FFF;
   color: #47433F;}
 
 .form_settings .submit
-{ font: 100% arial;
+{ font: 100% Georgia, serif;
   border: 0;
   width: 99px;
   margin: 0 0 0 212px;
@@ -298,7 +298,7 @@ ul#menu li a:hover
   color: #FFF;}
 
 .form_settings textarea, .form_settings select
-{ font: 100% arial;
+{ font: 100% Georgia, serif;
   width: 299px;}
 
 .form_settings select
